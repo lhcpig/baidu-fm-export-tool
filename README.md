@@ -1,5 +1,5 @@
 # baidu-fm-export-tool
-export favorite song list in baidu fm
+export favorite song list from fm.baidu.com
 
 ---
 

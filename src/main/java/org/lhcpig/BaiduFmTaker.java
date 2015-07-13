@@ -83,7 +83,7 @@ public class BaiduFmTaker {
             return Collections.emptyList();
         }
         List<Song> result = Lists.newArrayListWithCapacity(songCount);
-        int pageCount = songCount % pageLen + 1;
+        int pageCount = songCount / pageLen + 1;
         for (int page = 1; page <= pageCount; page++) {
             List<Integer> songIds = getSongIds(page, pageLen);
             List<Song> songList = getSongList(songIds);

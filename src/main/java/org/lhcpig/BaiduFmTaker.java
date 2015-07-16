@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by liuhengchong on 2015/7/13.
+ * Created by lhcpig on 2015/7/13.
  */
 public class BaiduFmTaker {
 

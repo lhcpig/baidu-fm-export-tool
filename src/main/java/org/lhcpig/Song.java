@@ -1,7 +1,7 @@
 package org.lhcpig;
 
 /**
- * Created by liuhengchong on 2015/7/13.
+ * Created by lhcpig on 2015/7/13.
  */
 public class Song {
     private String singger;

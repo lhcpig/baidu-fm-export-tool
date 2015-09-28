@@ -6,7 +6,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 import java.util.List;
 
 /**
- * Created by liuhengchong on 2015/7/13.
+ * Created by lhcpig on 2015/7/13.
  */
 @XmlRootElement(name = "List")
 public class Favorites {

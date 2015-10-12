@@ -9,3 +9,7 @@ export favorite song list from fm.baidu.com
 
 在浏览器中登录baidu后，在cookie中会有一个BDUSS。取出来，然后写入config.properties。
 最后执行Main就可以了
+
+
+##注
+因为只是一个工具，所以代码写的比较随意，见谅
